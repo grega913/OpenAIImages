@@ -7,4 +7,4 @@
 
 import Foundation
 
-let OPENAI_API_KEY = "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"
+let OPENAI_API_KEY = "sk-2MEcn2phxQRTk0"
